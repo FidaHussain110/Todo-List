@@ -1,1 +1,10 @@
-/build
+# Android
+/.idea/
+/.gradle/
+/build/
+/captures/
+local.properties
+*.iml
+# Other
+*.log
+*.DS_Store
